@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://www.nowheresafehc.com</loc>
+	<lastmod>2023-03-03</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/02.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/02.webp</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/Gallery.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/Gallery.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/NOWHERE%20SAFE%20-%20ONE%20BY%20ONE%20%28SINGLE%20COVER%29.jpg</image:loc>
+	<image:title>Barber 1 young man with beard smiling and wearing a  brown shirt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/NOWHERE%20SAFE%20-%20ONE%20BY%20ONE%20%28SINGLE%20COVER%29.webp</image:loc>
+	<image:title>Barber 1 young man with beard smiling and wearing a  brown shirt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/Retribution_Cover.jpg</image:loc>
+	<image:title>Barber 1 young man with beard smiling and wearing a  brown shirt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/Retribution_Cover.webp</image:loc>
+	<image:title>Barber 1 young man with beard smiling and wearing a  brown shirt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/Retribution_PROMO_Cover.jpg</image:loc>
+	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/Retribution_PROMO_Cover.webp</image:loc>
+	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
