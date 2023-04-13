@@ -312,25 +312,6 @@ button{
 	font-size:30px!important;
 }
 
-/* Image Frame */
-.img-frame,.img-frame-md,.img-frame-lg,.img-frame-rd,.img-frame-rd-md,.img-frame-rd-lg{
-	background:#FFF;
-	border:1px solid rgba(0,0,0,0.1);
-	box-shadow:0 2px 2px rgba(0,0,0,0.05);
-	padding:4px;
-}
-.img-frame{
-	border-radius:3px;
-}
-.img-frame-md,.img-frame-lg{
-	border-radius:6px;
-}
-.img-frame-md,.img-frame-rd-md{
-	padding:8px;
-}
-.img-frame-lg,.img-frame-rd-lg{
-	padding:14px;
-}
 
 
 
@@ -369,6 +350,14 @@ button{
 	box-shadow:none;
 }
 
+
+.carousel-nav-icon{
+	fill: none;
+	stroke: #fff;
+	stroke-width: 2px;
+	fill-rule: evenodd;
+	stroke-linecap:round;
+}
 
 
 /* ScrollToTop button */
@@ -508,9 +497,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .btn-3-style{
 	width:15.83%;
-}
-.img-style{
-	border-radius:0px 0px 0px 0px;
 }
 
 /* = Colour
