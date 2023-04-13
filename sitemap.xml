@@ -14,7 +14,11 @@
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/01.png?timestamp=1681405901927</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/01.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/01.webp</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -26,27 +30,51 @@
 	<image:title>slide 2</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/03.png?timestamp=1681405843966</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/03.png</image:loc>
 	<image:title>slide 3</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/04.png?timestamp=1681405839716</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/03.webp</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/04.png</image:loc>
 	<image:title>slide 4</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/05.png?timestamp=1681405835120</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/04.webp</image:loc>
+	<image:title>slide 4</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/05.png</image:loc>
 	<image:title>slide 5</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/06.png?timestamp=1681405829276</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/05.webp</image:loc>
+	<image:title>slide 5</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/06.png</image:loc>
 	<image:title>slide 6</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/07.png?timestamp=1681405823022</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/06.webp</image:loc>
+	<image:title>slide 6</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/07.png</image:loc>
 	<image:title>slide 7</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/08.png?timestamp=1681405818290</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/07.webp</image:loc>
+	<image:title>slide 7</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/08.png</image:loc>
+	<image:title>slide 8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/08.webp</image:loc>
 	<image:title>slide 8</image:title>
 	</image:image>
 	<image:image>
