@@ -8,7 +8,7 @@
 	$email = $_POST['email'];
 	$message = $_POST['message'];
 	
-	$to = 'nowheresafehc@gmail.com'; // Email submissions are sent to this email
+	$to = 'https://formsubmit.co/el/ruloca'; // Email submissions are sent to this email
 
 	// Create email	
 	$email_subject = "NEW MESSAGE FROM NOWHERESAFEHC.COM";
