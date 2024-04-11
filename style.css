@@ -518,6 +518,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-Black-Copy:#000000;
 	
+	--swatch-var-White-Copy:#185EBD;
+	
 }
 
 
@@ -561,11 +563,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Link colour styles */
 
-.ltc-6728{
-	color:var(--swatch-var-White)!important;
+.ltc-5674{
+	color:var(--swatch-var-White-Copy)!important;
 }
-.ltc-6728:hover{
-	color:#CCCCCC!important;
+.ltc-5674:hover{
+	color:#002B8A!important;
 }
 .ltc-3409{
 	color:var(--swatch-var-Primary)!important;
@@ -583,12 +585,12 @@ url("img/Album_chopped.webp") 2x);background-image: image-set(url("img/Album_cho
 url("img/Album_chopped.jpg") 2x,url("img/Album_chopped.webp") 1x,
 url("img/Album_chopped.webp") 2x);
 }
-.bg-Website-header{
-	background-image:url("img/Website_header.png");
-	background-image: -webkit-image-set(url("img/Website_header.webp") 1x,
-url("img/Website_header.webp") 2x);background-image: image-set(url("img/Website_header.png") 1x,
-url("img/Website_header.png") 2x,url("img/Website_header.webp") 1x,
-url("img/Website_header.webp") 2x);
+.bg-Untitled-Artwork-203{
+	background-image:url("img/Untitled_Artwork%203.png");
+	background-image: -webkit-image-set(url("img/Untitled_Artwork%203.webp") 1x,
+url("img/Untitled_Artwork%203.webp") 2x);background-image: image-set(url("img/Untitled_Artwork%203.png") 1x,
+url("img/Untitled_Artwork%203.png") 2x,url("img/Untitled_Artwork%203.webp") 1x,
+url("img/Untitled_Artwork%203.webp") 2x);
 }
 
 
