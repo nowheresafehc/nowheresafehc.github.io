@@ -585,12 +585,12 @@ url("img/Album_chopped.webp") 2x);background-image: image-set(url("img/Album_cho
 url("img/Album_chopped.jpg") 2x,url("img/Album_chopped.webp") 1x,
 url("img/Album_chopped.webp") 2x);
 }
-.bg-Untitled-Artwork-203{
-	background-image:url("img/Untitled_Artwork%203.png");
-	background-image: -webkit-image-set(url("img/Untitled_Artwork%203.webp") 1x,
-url("img/Untitled_Artwork%203.webp") 2x);background-image: image-set(url("img/Untitled_Artwork%203.png") 1x,
-url("img/Untitled_Artwork%203.png") 2x,url("img/Untitled_Artwork%203.webp") 1x,
-url("img/Untitled_Artwork%203.webp") 2x);
+.bg-Header-206{
+	background-image:url("img/Header%206.png");
+	background-image: -webkit-image-set(url("img/Header%206.webp") 1x,
+url("img/Header%206.webp") 2x);background-image: image-set(url("img/Header%206.png") 1x,
+url("img/Header%206.png") 2x,url("img/Header%206.webp") 1x,
+url("img/Header%206.webp") 2x);
 }
 
 
