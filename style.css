@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	NOWHERE SAFE - ONE BY ONE
+	NOWHERE SAFE - SO WHAT? AVAILABLE 4/19!
 	Author: Nowhere Safe
 	Version: 1.0
 	Built with Blocs
@@ -302,9 +302,6 @@ button{
 .btn-sq{
 	border-radius: 0px;
 }
-.icon-spacer{
-	margin-right:5px;
-}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -528,14 +525,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-1165{
 	background-color:var(--swatch-var-Black);
 }
-.bgc-727{
-	background-color:var(--swatch-var-Black-Copy);
+.bgc-5674{
+	background-color:var(--swatch-var-White-Copy);
 }
 .bgc-3409{
 	background-color:var(--swatch-var-Primary);
 }
 .bgc-6728{
 	background-color:var(--swatch-var-White);
+}
+.bgc-727{
+	background-color:var(--swatch-var-Black-Copy);
 }
 
 /* Text colour styles */
@@ -578,19 +578,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-Album-chopped{
-	background-image:url("img/Album_chopped.jpg");
-	background-image: -webkit-image-set(url("img/Album_chopped.webp") 1x,
-url("img/Album_chopped.webp") 2x);background-image: image-set(url("img/Album_chopped.jpg") 1x,
-url("img/Album_chopped.jpg") 2x,url("img/Album_chopped.webp") 1x,
-url("img/Album_chopped.webp") 2x);
+.bg-FOOTER-202{
+	background-image:url("img/FOOTER%202.png");
+	background-image: -webkit-image-set(url("img/FOOTER%202.webp") 1x,
+url("img/FOOTER%202.webp") 2x);background-image: image-set(url("img/FOOTER%202.png") 1x,
+url("img/FOOTER%202.png") 2x,url("img/FOOTER%202.webp") 1x,
+url("img/FOOTER%202.webp") 2x);
 }
-.bg-Header-206{
-	background-image:url("img/Header%206.png");
-	background-image: -webkit-image-set(url("img/Header%206.webp") 1x,
-url("img/Header%206.webp") 2x);background-image: image-set(url("img/Header%206.png") 1x,
-url("img/Header%206.png") 2x,url("img/Header%206.webp") 1x,
-url("img/Header%206.webp") 2x);
+.bg-header-207{
+	background-image:url("img/header%207.png");
+	background-image: -webkit-image-set(url("img/header%207.webp") 1x,
+url("img/header%207.webp") 2x);background-image: image-set(url("img/header%207.png") 1x,
+url("img/header%207.png") 2x,url("img/header%207.webp") 1x,
+url("img/header%207.webp") 2x);
 }
 
 

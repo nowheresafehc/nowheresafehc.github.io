@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.nowheresafehc.com</loc>
-	<lastmod>2024-04-10</lastmod>
+	<lastmod>2024-04-18</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -14,68 +14,28 @@
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/01.png</image:loc>
-	<image:title>slide 1</image:title>
+	<image:loc>https://www.nowheresafehc.com/img/WEB%2001.png</image:loc>
+	<image:title>WEB 01</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/01.webp</image:loc>
-	<image:title>slide 1</image:title>
+	<image:loc>https://www.nowheresafehc.com/img/WEB%2001.webp</image:loc>
+	<image:title>WEB 01</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/02.png</image:loc>
-	<image:title>slide 2</image:title>
+	<image:loc>https://www.nowheresafehc.com/img/WEB%2002.png</image:loc>
+	<image:title>WEB 02</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/02.webp</image:loc>
-	<image:title>slide 2</image:title>
+	<image:loc>https://www.nowheresafehc.com/img/WEB%2002.webp</image:loc>
+	<image:title>WEB 02</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/03.png</image:loc>
-	<image:title>slide 3</image:title>
+	<image:loc>https://www.nowheresafehc.com/img/Nowhere%20Safe%20-%20So%20What%3F%20COVER.PNG</image:loc>
+	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/03.webp</image:loc>
-	<image:title>slide 3</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/04.png</image:loc>
-	<image:title>slide 4</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/04.webp</image:loc>
-	<image:title>slide 4</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/05.png</image:loc>
-	<image:title>slide 5</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/05.webp</image:loc>
-	<image:title>slide 5</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/06.png</image:loc>
-	<image:title>slide 6</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/06.webp</image:loc>
-	<image:title>slide 6</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/07.png</image:loc>
-	<image:title>slide 7</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/07.webp</image:loc>
-	<image:title>slide 7</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/08.png</image:loc>
-	<image:title>slide 8</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/08.webp</image:loc>
-	<image:title>slide 8</image:title>
+	<image:loc>https://www.nowheresafehc.com/img/Nowhere%20Safe%20-%20So%20What%3F%20COVER.webp</image:loc>
+	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.nowheresafehc.com/img/NOWHERE%20SAFE%20-%20ONE%20BY%20ONE%20%28SINGLE%20COVER%29.jpg</image:loc>
@@ -92,14 +52,6 @@
 	<image:image>
 	<image:loc>https://www.nowheresafehc.com/img/Retribution_Cover.webp</image:loc>
 	<image:title>Barber 1 young man with beard smiling and wearing a  brown shirt</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/Retribution_PROMO_Cover.jpg</image:loc>
-	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/Retribution_PROMO_Cover.webp</image:loc>
-	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.nowheresafehc.com/img/</image:loc>
