@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.nowheresafehc.com</loc>
-	<lastmod>2024-04-20</lastmod>
+	<lastmod>2024-09-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/Untitled_Artwork%202.png</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/NT%20Logo.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://www.nowheresafehc.com/img/Untitled_Artwork%202.webp</image:loc>
+	<image:loc>https://www.nowheresafehc.com/img/NT%20Logo.webp</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
@@ -28,6 +28,14 @@
 	<image:image>
 	<image:loc>https://www.nowheresafehc.com/img/NS%20002.webp</image:loc>
 	<image:title>WEB 02</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/NO%20TRUST%20ALBUM%20ARTWORK%20WEB.png</image:loc>
+	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.nowheresafehc.com/img/NO%20TRUST%20ALBUM%20ARTWORK%20WEB.webp</image:loc>
+	<image:title>young man wearing shades and a hat with a beard, tattos and ear piercings</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://www.nowheresafehc.com/img/Nowhere%20Safe%20-%20So%20What%3F%20COVER.PNG</image:loc>

@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	NOWHERE SAFE - SO WHAT? AVAILABLE NOW!
+	NOWHERE SAFE - NO TRUST AVAILABLE NOW!
 	Author: Nowhere Safe
 	Version: 1.0
 	Built with Blocs
@@ -578,11 +578,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-FOOTER-202{
-	background-image:url("img/FOOTER%202.png");
+.bg-NT-20HEADER{
+	background-image:url("img/NT%20HEADER.png");
+	background-image: -webkit-image-set(url("img/NT%20HEADER.webp") 1x,
+url("img/NT%20HEADER.webp") 2x);background-image: image-set(url("img/NT%20HEADER.png") 1x,
+url("img/NT%20HEADER.png") 2x,url("img/NT%20HEADER.webp") 1x,
+url("img/NT%20HEADER.webp") 2x);
 }
-.bg-header-207{
-	background-image:url("img/header%207.png");
+.bg-SPOTIFY-20BG{
+	background-image:url("img/SPOTIFY%20BG.png");
+	background-image: -webkit-image-set(url("img/SPOTIFY%20BG.webp") 1x,
+url("img/SPOTIFY%20BG.webp") 2x);background-image: image-set(url("img/SPOTIFY%20BG.png") 1x,
+url("img/SPOTIFY%20BG.png") 2x,url("img/SPOTIFY%20BG.webp") 1x,
+url("img/SPOTIFY%20BG.webp") 2x);
 }
 
 
