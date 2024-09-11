@@ -579,6 +579,13 @@ url("img/SPOTIFY%20BG.webp") 2x);background-image: image-set(url("img/SPOTIFY%20
 url("img/SPOTIFY%20BG.png") 2x,url("img/SPOTIFY%20BG.webp") 1x,
 url("img/SPOTIFY%20BG.webp") 2x);
 }
+.bg-NT-20STREAM{
+	background-image:url("img/NT%20STREAM.png");
+	background-image: -webkit-image-set(url("img/NT%20STREAM.webp") 1x,
+url("img/NT%20STREAM.webp") 2x);background-image: image-set(url("img/NT%20STREAM.png") 1x,
+url("img/NT%20STREAM.png") 2x,url("img/NT%20STREAM.webp") 1x,
+url("img/NT%20STREAM.webp") 2x);
+}
 
 
 
