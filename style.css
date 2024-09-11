@@ -299,9 +299,6 @@ button{
 	outline: none!important;
 }
 
-.btn-sq{
-	border-radius: 0px;
-}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -339,13 +336,6 @@ button{
 	margin:0;
 }
 
-/* = Forms
--------------------------------------------------------------- */
-
-.form-control{
-	border-color:rgba(0,0,0,.1);
-	box-shadow:none;
-}
 
 
 .carousel-nav-icon{
@@ -545,9 +535,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .tc-1165{
 	color:var(--swatch-var-Black)!important;
-}
-.tc-3648{
-	color:var(--swatch-var-White-50%)!important;
 }
 
 /* Button colour styles */
